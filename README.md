@@ -2,7 +2,7 @@
 
 Project by:
 
- * Anne
+ * Anne Hinrichs
  * Jorn Prenger
 
 ## Research question
