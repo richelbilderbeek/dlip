@@ -22,3 +22,12 @@ Project by:
  * What is a phylogeny?
  * How is a phylogeny inferred (and why do we use the word 'inferred' instead of 'concluded')?
  * What is a likelihood equation?
+
+## Exercise to optionally do first
+
+ * How to train a neural network to be able to do basic truth tables?
+
+## End product(s)
+
+ * A report in English, aimed at university students (so no need to explain basic mathermatics and terms)
+ * Optionally: scripts, put on this GitHub
