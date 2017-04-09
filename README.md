@@ -25,9 +25,14 @@ Project by:
 
 ## Exercise to optionally do first
 
- * How to train a neural network to be able to do basic truth tables?
+ * How to train a neural network to be able to do basic truth tables [Smith, 2017, advice 4]?
+ 
 
 ## End product(s)
 
  * A report in English, aimed at university students (so no need to explain basic mathermatics and terms)
  * Optionally: scripts, put on this GitHub
+
+## References
+
+ * Leslie N. Smith, Best Practices for Applying Deep Learning to Novel Applications, 2017
