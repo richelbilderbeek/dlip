@@ -3,6 +3,7 @@
 Project by:
 
  * Anne Hinrichs
+ * ?Jeroen Niemendal (need approval from his mentor)
  * Jorn Prenger
 
 ## Research question
