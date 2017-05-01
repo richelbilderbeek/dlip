@@ -5,7 +5,16 @@ Main question:
 
 <b>What is a neural network?</b>
 <p>
-Wat een neural network is.
+  
+  
+  <i>Unsupervised</i>
+  
+  Unsupervised machine learning is the machine learning task of inferring a function to describe hidden structure from unlabeled        data.
+  
+  <i>Supervised</i>
+  
+  Supervised learning is the machine learning task of inferring a function from labeled training data.
+  
 
 </p>
 
@@ -26,15 +35,6 @@ Wat deep learning is.
   <p>
   
   A deep neural network is a neural network which uses multiple hidden layers. This type of networks can be used to execute far more complex tasks, but the layers also make the network almost impossible to understand.
-  
-  <i>Unsupervised</i>
-  
-  Unsupervised machine learning is the machine learning task of inferring a function to describe hidden structure from unlabeled        data.
-  
-  <i>Supervised</i>
-  
-  Supervised learning is the machine learning task of inferring a function from labeled training data.
-  
   </p>
 </p>
 
