@@ -3,7 +3,6 @@
 Project by:
 
  * Anne Hinrichs
- * ?Jeroen Niemendal (need approval from his mentor)
  * Jorn Prenger
 
 ## Research question
@@ -27,12 +26,34 @@ Project by:
 ## Exercise to optionally do first
 
  * How to train a neural network to be able to do basic truth tables [Smith, 2017, advice 4]?
- 
 
 ## End product(s)
 
  * A report in English, aimed at university students (so no need to explain basic mathermatics and terms)
  * Optionally: scripts, put on this GitHub
+
+## Schedule
+
+ * Monday: 10:30 coffee break, 580
+ * Monday: What are uses of deep learning? Optionally: simple scripts
+ * Tuesday: what is phylogenetics?
+ * Wednesday: What are uses of deep learning in phylogenetics? Optionally: simple scripts
+ * Thursday: Scripting
+
+Daily: 
+
+ * 9:00 coffee, tea, briefing, at big table in front of 512
+ * 13:00 Lunch, big table in front of 512
+
+## People
+
+ * Jan Kotlarski: daily supervisor, at canteen
+ * Richel Bilderbeek: supervisor
+ * Christoph Netz: neural network expert, at canteen
+ * Francisco Richter ('Pancho'): phylogenetics expert, at 512
+ * Giovanni Laudanno: phylogenetics expert, at 512
+ * Liang Xu: phylogenetics expert, at 512, at 512
+ 
 
 ## References
 
