@@ -5,7 +5,7 @@ In this report we will examine if deep learning can be used for phylogenetics. W
 
 ## What is a neural network?
 
-### What is (un)supervised 
+### What is (un)supervised learning
 
 * Unsupervised
   
