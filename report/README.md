@@ -11,7 +11,10 @@ Wat een neural network is.
 
 <b>What is a neural network used for?</b>
 <p>
-  Constructive Autoassociative Neural Network for Facial Recognition [1]
+
+  Deep Learning for Population Genetic Inference.[1]
+
+  Constructive Autoassociative Neural Network for Facial Recognition [3]
 
 </p>
 
