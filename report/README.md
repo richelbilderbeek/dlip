@@ -25,12 +25,10 @@ Wat deep learning is.
   A deep neural network is a neural network which uses multiple hidden layers. This type of networks can be used to execute far more complex tasks, but the layers also make the network almost impossible to understand.
   
   <i>Unsupervised</i>
-  Wat unsupervised is.
   
-  Unsupervised machine learning is the machine learning task of inferring a function to describe hidden structure from unlabeled data.
+  Unsupervised machine learning is the machine learning task of inferring a function to describe hidden structure from unlabeled        data.
   
   <i>Supervised</i>
-  Wat supervised is.
   
   Supervised learning is the machine learning task of inferring a function from labeled training data.
   
