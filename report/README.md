@@ -12,7 +12,7 @@
   
  * Supervised
   
- * Supervised learning is the machine learning task of inferring a function from labeled training data.
+ Supervised learning is the machine learning task of inferring a function from labeled training data.
   
 
 
@@ -22,7 +22,7 @@
 
  * Deep Learning for Population Genetic Inference.[1]
 
-  Constructive Autoassociative Neural Network for Facial Recognition [3]
+ * Constructive Autoassociative Neural Network for Facial Recognition [3]
 
 
 
@@ -36,7 +36,7 @@
   * A deep neural network is a neural network which uses multiple hidden layers. This type of networks can be used to execute far more complex tasks, but the layers also make the network almost impossible to understand.
  
   
-  ## What is phylogenetics?
+  ## What are phylogenetics?
   
   
 
