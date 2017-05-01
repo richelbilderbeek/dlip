@@ -1,8 +1,17 @@
 # The combination of phylogenetics and neural networks.*
 
-## Can deep neural networks be used in phylogentics and if so how can it benefit from it? 
+## Can deep neural networks be used in phylogentics and if so how can phylogenetics benefit from it? 
+In this report we will examine if deep learning can be used for phylogenetics. We will also try to find out in what way they can be used, and try to give examples.
 
 ## What is a neural network?
+
+* Unsupervised
+  
+Unsupervised machine learning is the machine learning task of inferring a function to describe hidden structure from unlabeled        data.
+  
+ * Supervised
+  
+Supervised learning is the machine learning task of inferring a function from labeled training data.
 
 ### What is deep learning?
 
@@ -12,13 +21,7 @@ Wat deep learning is.
  
 A deep neural network is a neural network which uses multiple hidden layers. This type of networks can be used to execute far more complex tasks, but the layers also make the network almost impossible to understand.
   
-* Unsupervised:
-  
-Unsupervised machine learning is the machine learning task of inferring a function to describe hidden structure from unlabeled        data.
-  
- * Supervised
-  
-Supervised learning is the machine learning task of inferring a function from labeled training data.
+
 
 
 
