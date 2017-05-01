@@ -27,11 +27,11 @@ A deep neural network is a neural network which uses multiple hidden layers. Thi
 ## What is a neural network used for?
 
 
- * Deep Learning for Population Genetic Inference.[1]
+ * Deep Learning for Population Genetic Inference. [1]
 
- * Constructive Autoassociative Neural Network for Facial Recognition [3]
-
-
+ * Constructive Autoassociative Neural Network for Facial Recognition. [3]
+ 
+ * For image and speech recognition. [4]
  
   
 ## What are phylogenetics?
