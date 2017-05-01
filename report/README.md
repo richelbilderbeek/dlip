@@ -15,7 +15,7 @@ Wat deep learning is.
 
 <b>What is a deep neural network?</b>
   <p>
-  Wat een deep neural network is.
+  A deep neural network is a neural network which uses multiple hidden layers. This type of networks can be used to execute far more complex tasks, but the layers also make the network almost impossible to understand.
   
   <i>Unsupervised</i>
   Wat unsupervised is.
