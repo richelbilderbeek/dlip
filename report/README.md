@@ -5,6 +5,8 @@ In this report we will examine if deep learning can be used for phylogenetics. W
 
 ## What is a neural network?
 
+### What is (un)supervised 
+
 * Unsupervised
   
 Unsupervised machine learning is the machine learning task of inferring a function to describe hidden structure from unlabeled        data.
