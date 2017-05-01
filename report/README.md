@@ -1,4 +1,4 @@
-<b>The combination of phylogenetics and neural networks.</b><br><br>
+###The combination of phylogenetics and neural networks.<br><br>
 
 Main question:
 <b> Can deep neural networks be used in phylogentics and if so how can it benefit from it? </b>
