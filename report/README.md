@@ -20,8 +20,12 @@ Wat deep learning is.
   <i>Unsupervised</i>
   Wat unsupervised is.
   
+  Unsupervised machine learning is the machine learning task of inferring a function to describe hidden structure from unlabeled data.
+  
   <i>Supervised</i>
   Wat supervised is.
+  
+  Supervised learning is the machine learning task of inferring a function from labeled training data.
   
   </p>
 </p>
