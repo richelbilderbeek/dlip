@@ -1,6 +1,5 @@
 # The combination of phylogenetics and neural networks.
 
-* Main question:
 ## Can deep neural networks be used in phylogentics and if so how can it benefit from it? 
 
 * What is a neural network?
@@ -9,11 +8,11 @@
   
 * Unsupervised:
   
-  Unsupervised machine learning is the machine learning task of inferring a function to describe hidden structure from unlabeled        data.
+ * Unsupervised machine learning is the machine learning task of inferring a function to describe hidden structure from unlabeled        data.
   
-  Supervised
+ * Supervised
   
-  Supervised learning is the machine learning task of inferring a function from labeled training data.
+ * Supervised learning is the machine learning task of inferring a function from labeled training data.
   
 
 
@@ -41,7 +40,7 @@
   
   
 
-  ## References:
+  ## References
 
 
 * [1] Sheehan S, Song YS (2016) Deep Learning for Population Genetic Inference. PLoS Comput Biol 12(3): e1004845. https://doi.org/10.1371/journal.pcbi.1004845
