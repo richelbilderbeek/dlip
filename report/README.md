@@ -37,6 +37,8 @@ Just as a GUI makes it easier for people to use programs, API's make it easier f
 
 ## What is a neural network used for?
 
+A neural network is used to discover patterns in large datasets and make predictions using this pattern. Some examples:
+
 
  * Deep Learning for Population Genetic Inference. [1]
 
