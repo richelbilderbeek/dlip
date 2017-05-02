@@ -11,6 +11,8 @@ A neural network is a massively parallel distributed processor made up of simple
 
 2. Interneuron connection strengths, kwown as synaptic weights, are used to store the acquired knowledge. [7]
 
+The procedure used to perform the learning algorithm, the function of wich is to modify the synaptic weights of the networks in an orderly fashion to attain a desired design objective.h 
+
 ### What is (un)supervised learning
 
 * Unsupervised
