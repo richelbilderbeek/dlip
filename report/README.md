@@ -5,13 +5,11 @@ In this report we will examine if deep learning can be used for phylogenetics. W
 
 ## What is a neural network?
 
-A neural network is a massively parallel distributed processor made up of simple processing units, wich has a natural propensity for storing experiental knowledge and making it available for use. It resembles the brain in two respects:
+A neural network is a very big parallel distributed processor made up of artificial neurons, wich has an inclination for storing experiental data and making it available to use. It's like the brain in two aspects:
 
-1. Knowledge is acquired by the network form its environment trough a learning process.
+1. Data is accomplished by the network from its environment trough a learning process.
 
-2. Interneuron connection strengths, kwown as synaptic weights, are used to store the acquired knowledge. 
-
-The procedure used to perform the learning algorithm, the function of wich is to modify the synaptic weights of the networks in an orderly fashion to attain a desired design objective. [7]
+2. Synaptic weights, are used to store the accomplished data.  [7]
 
 ### What is (un)supervised learning
 
@@ -30,9 +28,6 @@ A deep neural network is a neural network which uses multiple hidden layers. Thi
 ![alt text](https://github.com/richelbilderbeek/dlip/blob/master/report/neuralnet.png)
 
 ## What is an API
-
-An API makes it easier for programmers to interact with hardware, databases and other stuff. It combines certain actions to save programmers from having to write the same standard code all the time. 
-Just as a GUI makes it easier for people to use programs, API's make it easier for developers to use certain technologies in building applications. By abstracting the underlying implementation and only exposing objects or actions the developer needs, an API reduces the cognitive load on a programmer.[5]
   
 
 ## What is a neural network used for?
