@@ -54,7 +54,7 @@ Just as a GUI makes it easier for people to use programs, API's make it easier f
 
 * They are slow to train without a good gpu.
 
-* They need lots of training data.
+* They need lots of training data. [further citation needed]
   
 ## What are phylogenetics?
 
