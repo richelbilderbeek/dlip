@@ -48,13 +48,13 @@ Just as a GUI makes it easier for people to use programs, API's make it easier f
 
 ### pros
 
-* very accurate predictions and outcomes
+* They have very accurate predictions and outcomes.
 
 ### cons 
 
-* they are slow to train without a good gpu
+* They are slow to train without a good gpu.
 
-* they need lots of training data
+* They need lots of training data.
   
 ## What are phylogenetics?
 
