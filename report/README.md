@@ -25,7 +25,7 @@ Supervised learning is the machine learning task of inferring a function from la
  
 A deep neural network is a neural network which uses multiple hidden layers. This type of networks can be used to execute far more complex tasks, but the layers also make the network almost impossible to understand.
 
-![alt text](https://github.com/richelbilderbeek/dlip/blob/master/report/phylogenetic tree.png)
+![alt text](https://github.com/richelbilderbeek/dlip/blob/master/report/phylogenetic_tree.png)
 
 ## What is an API
 An API makes it easier for programmers to interact with hardware, databases and other stuff. It combines certain actions to save programmers from having to write the same standard code all the time. An API also standardises the communications with the hardware drivers. This makes sure you don't have to write a different program for every different system. It is all to make it easier for programmers to develop applications using these prebuild things. [5]
