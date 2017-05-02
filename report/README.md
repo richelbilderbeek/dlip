@@ -25,7 +25,7 @@ Supervised learning is the machine learning task of inferring a function from la
  
 A deep neural network is a neural network which uses multiple hidden layers. This type of networks can be used to execute far more complex tasks, but the layers also make the network almost impossible to understand.
 
-![alt text](https://github.com/richelbilderbeek/dlip/blob/master/report/neuralnet.png)
+![alt text](https://github.com/richelbilderbeek/dlip/blob/master/report/phylogenetic tree.png)
 
 ## What is an API
 An API makes it easier for programmers to interact with hardware, databases and other stuff. It combines certain actions to save programmers from having to write the same standard code all the time. An API also standardises the communications with the hardware drivers. This makes sure you don't have to write a different program for every different system. It is all to make it easier for programmers to develop applications using these prebuild things. [5]
@@ -60,7 +60,9 @@ A neural network is used to discover patterns in large datasets and make predict
 ## What are phylogenetics?
 
 Phylogenetics is the study of the evolutionary history and relationships among individuals or groups of organisms. This means it studies the relations and differences between species. To clarify these relations phylogenetic trees are made. In these trees you can also see when a specie splits into two different species. The field we are interested in is the length of the lines of these trees, which represent the time before a specie split. We also want to know if a specie just transforms instantly into two, or if this process takes time in which the specie's organisms start to grow apart due to evolution.
- 
+
+![alt text](https://github.com/richelbilderbeek/dlip/blob/master/report/neuralnet.png)
+
 ## References
 
 
