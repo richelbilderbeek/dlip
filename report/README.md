@@ -1,4 +1,4 @@
-# The combination of phylogenetics and neural networks.*
+# The combination of phylogenetics and artificial neural networks
 
 ## Can deep neural networks be used in phylogentics and if so how can phylogenetics benefit from it? 
 In this report we will examine if deep learning can be used for phylogenetics. We will also try to find out in what way they can be used, and try to give examples.
@@ -43,8 +43,6 @@ A deep neural network is a neural network which uses multiple hidden layers. Thi
 An API makes it easier for programmers to interact with hardware, databases and other stuff. It combines certain actions to save programmers from having to write the same standard code all the time. 
 Just as a GUI makes it easier for people to use programs, API's make it easier for developers to use certain technologies in building applications. By abstracting the underlying implementation and only exposing objects or actions the developer needs, an API reduces the cognitive load on a programmer.[5]
   
-*Just to be clear, all the neural networks we talk about are artificial, except for when we say they're not.
-
 ## References
 
 
