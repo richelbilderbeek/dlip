@@ -33,6 +33,8 @@ A deep neural network is a neural network which uses multiple hidden layers. Thi
  
  * For image and speech recognition. [4]
  
+ * It is used in phylogenetics for asigning unknown DNA to an animal group [6]
+ 
   
 ## What are phylogenetics?
 
@@ -59,4 +61,6 @@ http://www.nature.com/nature/journal/v521/n7553/abs/nature14539.html
 * [4] Li Deng and Dong Yu (2014), "Deep Learning: Methods and Applications", Foundations and Trends® in Signal Processing: Vol. 7: No. 3–4, pp 197-387. http://dx.doi.org/10.1561/2000000039
 
 * [5] Clarke, Steven (2004). "Measuring API Usability". Dr. Dobb's. Retrieved 29 July 2016.
+
+* [6]Halgaswaththa, Thilini, et al. "Neural network based phylogenetic analysis." Biomedical Engineering (ICoBE), 2012      International Conference on. IEEE, 2012.
 
