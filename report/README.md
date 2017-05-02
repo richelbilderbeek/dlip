@@ -47,7 +47,18 @@ Just as a GUI makes it easier for people to use programs, API's make it easier f
  * For image and speech recognition. [4]
  
  * It is used in phylogenetics for asigning unknown DNA to an animal group [6]
- 
+
+## What are the pros and cons of deep learning?
+
+### pros
+
+* very accurate predictions and outcomes
+
+### cons 
+
+* they are slow to train without a good gpu
+
+* they need lots of training data
   
 ## What are phylogenetics?
 
