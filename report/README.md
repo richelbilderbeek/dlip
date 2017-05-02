@@ -52,6 +52,7 @@ Just as a GUI makes it easier for people to use programs, API's make it easier f
 
 * They have very accurate predictions and outcomes.
 * You can train them in things computers couldn't do before.
+* You can get them to discover very complex patterns in large datasets.
 
 ### cons 
 
