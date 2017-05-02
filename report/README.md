@@ -9,7 +9,7 @@ A neural network is a massively parallel distributed processor made up of simple
 
 1. Knowledge is acquired by the network form its environment trough a learning process.
 
-2. Interneuron connection strengths, kwown as synaptic weights, are used to store the acquired knowledge.
+2. Interneuron connection strengths, kwown as synaptic weights, are used to store the acquired knowledge. [7]
 
 ### What is (un)supervised learning
 
@@ -66,5 +66,6 @@ http://www.nature.com/nature/journal/v521/n7553/abs/nature14539.html
 
 * [5] Clarke, Steven (2004). "Measuring API Usability". Dr. Dobb's. Retrieved 29 July 2016.
 
-* [6]Halgaswaththa, Thilini, et al. "Neural network based phylogenetic analysis." Biomedical Engineering (ICoBE), 2012      International Conference on. IEEE, 2012.
+* [6] Halgaswaththa, Thilini, et al. "Neural network based phylogenetic analysis." Biomedical Engineering (ICoBE), 2012      International Conference on. IEEE, 2012.
 
+* [7] Haykin, Simon, and Neural Network. "A comprehensive foundation." Neural Networks 2.2004 (2004): 41.
