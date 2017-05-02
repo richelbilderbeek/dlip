@@ -1,4 +1,4 @@
-# Novel artificial neural networks applications in phylogenetics 
+# Novel artificial neural networks applications in phylogenetics.
 
 ## Can deep neural networks be used in phylogentics and if so how can phylogenetics benefit from it? 
 In this report we will examine if deep learning can be used for phylogenetics. We will also try to find out in what way they can be used, and try to give examples.
@@ -19,7 +19,7 @@ Unsupervised machine learning is the machine learning task of inferring a functi
   
  * Supervised
   
-Supervised learning is the machine learning task of inferring a function from labeled training data. This means the supervisor has to tell the neural netowrk if it's outcome is right or not.
+Supervised learning is the machine learning task of inferring a function from labeled training data. The program just generates the output and says if this is right or not. After this it changes the values 
 
 ### What is a deep neural network?
  
