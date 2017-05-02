@@ -27,7 +27,7 @@ Supervised learning is the machine learning task of inferring a function from la
  
 A deep neural network is a neural network which uses multiple hidden layers. This type of networks can be used to execute far more complex tasks, but the layers also make the network almost impossible to understand.
 
-![alt text](https://github.com/richelbilderbeek/dlip/edit/master/report/neural network.png)
+![alt text](https://github.com/richelbilderbeek/dlip/edit/master/report/neuralnet.png)
 
 ## What is an API
 
