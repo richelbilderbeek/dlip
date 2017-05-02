@@ -17,11 +17,11 @@ The procedure used to perform the learning algorithm, the function of wich is to
 
 * Unsupervised
   
-Unsupervised machine learning is the machine learning task of inferring a function to describe hidden structure from unlabeled        data.
+Unsupervised machine learning is the machine learning task of inferring a function to describe hidden structure from unlabeled        data. This way you can let the program train itself without having to interfere in any way.
   
  * Supervised
   
-Supervised learning is the machine learning task of inferring a function from labeled training data.
+Supervised learning is the machine learning task of inferring a function from labeled training data. This means the supervisor has to tell the neural netowrk if it's outcome is right or not.
 
 ### What is a deep neural network?
  
@@ -51,6 +51,7 @@ Just as a GUI makes it easier for people to use programs, API's make it easier f
 ### pros
 
 * They have very accurate predictions and outcomes.
+* You can train them in things computers couldn't do before.
 
 ### cons 
 
