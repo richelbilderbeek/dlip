@@ -58,6 +58,7 @@ Just as a GUI makes it easier for people to use programs, API's make it easier f
   
 ## What are phylogenetics?
 
+Phylogenetics is the study of the evolutionary history and relationships among individuals or groups of organisms.
   
 ## References
 
