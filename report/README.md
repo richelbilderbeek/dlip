@@ -9,9 +9,9 @@ A neural network is a massively parallel distributed processor made up of simple
 
 1. Knowledge is acquired by the network form its environment trough a learning process.
 
-2. Interneuron connection strengths, kwown as synaptic weights, are used to store the acquired knowledge. [7]
+2. Interneuron connection strengths, kwown as synaptic weights, are used to store the acquired knowledge. 
 
-The procedure used to perform the learning algorithm, the function of wich is to modify the synaptic weights of the networks in an orderly fashion to attain a desired design objective.h 
+The procedure used to perform the learning algorithm, the function of wich is to modify the synaptic weights of the networks in an orderly fashion to attain a desired design objective. [7]
 
 ### What is (un)supervised learning
 
