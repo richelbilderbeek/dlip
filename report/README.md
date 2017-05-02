@@ -37,7 +37,7 @@ Just as a GUI makes it easier for people to use programs, API's make it easier f
 
 ## What is a neural network used for?
 
-A neural network is used to discover patterns in large datasets and make predictions using this pattern. Some examples:
+A neural network is used to discover patterns in large datasets and make predictions using these patterns. Some examples:
 
 
  * Deep Learning for Population Genetic Inference. [1]
@@ -64,8 +64,8 @@ A neural network is used to discover patterns in large datasets and make predict
   
 ## What are phylogenetics?
 
-Phylogenetics is the study of the evolutionary history and relationships among individuals or groups of organisms.
-  
+Phylogenetics is the study of the evolutionary history and relationships among individuals or groups of organisms. This means it studies the relations and differences between species. To clarify these relations phylogenetic trees are made. In these trees you can also see when a specie splits into two different species. The field we are interested in is the length of the lines of these trees, which represent the time before a specie split. We also want to know if a specie just transforms instantl into two, or if this process takes time in which the specie's organisms start to grow apart due to evolution.
+ 
 ## References
 
 
