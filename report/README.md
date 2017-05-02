@@ -63,6 +63,10 @@ Phylogenetics is the study of the evolutionary history and relationships among i
 
 ![alt text](https://github.com/richelbilderbeek/dlip/blob/master/report/phylogenetictree.png)
 
+## On wich type of phylogenetics can we asign neural networks?
+
+maximum parsimony is a good place to start because it is simple and easy to understand.
+
 ## References
 
 
