@@ -6,8 +6,7 @@ In this report we will examine if deep learning can be used for phylogenetics. W
 
 ## What is a neural network?
 
-A neural network is a programming sturcture which tries to simulate the neurons in the brain. Is does this to try to discover patterns in large sets of data a set of "neurons"
-A neural network is a very big parallel distributed processor made up of artificial neurons, wich has an inclination for storing experiental data and making it available to use. It's like the brain in two aspects:
+A neural network is a programming sturcture which tries to simulate the neurons in the brain. Is does this to try to discover patterns in large sets of data. Then it uses the discovered patters to look at new data, and say something about this data. The complexit of the patterns it discovers grows with the amount of neurons and layers the network.
 
 1. Data is accomplished by the network from its environment trough a learning process.
 
