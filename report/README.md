@@ -1,10 +1,12 @@
 # Novel artificial neural networks applications in phylogenetics.
+By: Jorn Prenger and Anne Hinrichs
 
 ## Can deep neural networks be used in phylogentics and if so how can phylogenetics benefit from it? 
 In this report we will examine if deep learning can be used for phylogenetics. We will also try to find out in what way they can be used, and try to give examples.
 
 ## What is a neural network?
 
+A neural network is a programming sturcture which tries to simulate the neurons in the brain. Is does this to try to discover patterns in large sets of data a set of "neurons"
 A neural network is a very big parallel distributed processor made up of artificial neurons, wich has an inclination for storing experiental data and making it available to use. It's like the brain in two aspects:
 
 1. Data is accomplished by the network from its environment trough a learning process.
