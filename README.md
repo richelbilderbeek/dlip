@@ -34,11 +34,13 @@ Project by:
 
 ## Schedule
 
- * Monday: 10:30 coffee break, 580
- * Monday: What are uses of deep learning? Optionally: simple scripts
+ * Monday: 
+   * What are uses of deep learning? Optionally: simple scripts
+   * 10:30 coffee break, 580
  * Tuesday: what is phylogenetics?
  * Wednesday: 
    * What are uses of deep learning in phylogenetics? Optionally: simple scripts
+   * 9:30: talk Kasper Hendriks in Blue Room
    * 12:30: meeting with Franjo Weissing, room 578
    * afternoon: visit to the greenhouse with Jacob
  * Thursday: Scripting
