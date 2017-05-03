@@ -4,6 +4,11 @@ Project by:
 
  * Anne Hinrichs
  * Jorn Prenger
+ 
+ Supervision by:
+ 
+  * Jan Kotlarski (daily supervisor)
+  * Richel Bilderbeek (supervisor)
 
 ## Research question
 
