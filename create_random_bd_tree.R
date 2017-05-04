@@ -18,9 +18,9 @@ if (1 == 2) {
   ape::plot.phylo(tree_reconstructed)
 }
 
-write.tree(tree_reconstructed,file = "newick.txt")
+write.tree(tree_reconstructed,file = "~/newick.txt")
 
 # Show the newick
 if (1 == 2) {
-  print(readLines("newick.txt"))
+  print(readLines("~/newick.txt"))
 }
