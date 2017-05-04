@@ -71,13 +71,13 @@ Phylogenetics is the study of the evolutionary history and relationships among i
 
 1. We could use neural networks in phylogenetics to simulate animals and make a phylogeny out of that, so you could see how animals speciate. This would be good, because then, you could control a phylogeny more.
 
-2. We could also use a neural network to find the parameters for the maximum likelihood function from the data in the tree. After you have found the parameters you could input the data of the tree and the parameters, and then it could guess the maximum likelihood formula..
+2. We could also use a neural network to find the parameters for the maximum likelihood function from the data in the tree. After you have found the parameters you could input the data of the tree and the parameters, and then it could guess the maximum likelihood formula.
 
 ### How could we do that
 
 1. You first have to make a realistic simulation of animals, this souldn't be too hard because this has been done many times. You then need to find a way to get it to run quick enough to get a phylogeny very quick. This might be hard because you would need a lot of computing power.
 
-2. You can use generated phylogenies with predefined parameters(as seen below) to feed to the neural network and train it with them. It then has too guess the parameters and after a while it should be able to guess the parameters correctly. Then, by having the input of the tree and the parameters, the neural network could guess the maximum likelihood formula.
+2. You can use generated phylogenies with predefined parameters(as seen below) to feed to the neurons(the amount of neurons is dependend on the amount of taxons) and train it with them. It then has too guess the parameters and after a while it should be able to guess the parameters correctly. Then, by having the input of the tree and the parameters, the neural network could guess the maximum likelihood formula.
 
 ## R output
 
