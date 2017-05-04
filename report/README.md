@@ -79,7 +79,7 @@ Phylogenetics is the study of the evolutionary history and relationships among i
 
 2. You can use generated phylogenies with predefined parameters(as seen below) to feed to the neurons(the amount of neurons is dependent on the amount of taxons) and train it with them. It then has too guess the parameters and after a while it should be able to guess the parameters correctly, if you have enough neurons and layers. Then, by having the input of the tree and the parameters, the neural network could guess the maximum likelihood formula.
 
-For example you could use a python script to make a neural network, then feed the data from the phylogeny to all the neurons. Then train it so, that it then generates two outputs, your spieciation rate and your extinction rate.
+For example you could use a python script or tensorflow to make a neural network, then feed the data from the phylogeny (which you can generate in R or use methode 1) to all the neurons. Then train it in a way, that it then generates two outputs, your spieciation rate and your extinction rate.
 
 ## R output
 
