@@ -81,6 +81,8 @@ Phylogenetics is the study of the evolutionary history and relationships among i
 
 2. You can use generated phylogenies with predefined parameters to feed to the neural network and train it with them. It then has too guess the parameters and after a while it should be able to guess the parameters correctly. 
 
+For example you could use a python script to make a neural network, then feed the data from the phylogeny to all the neurons. Then train it so, that it then generates two outputs, your spieciation rate and your extinction rate.
+
 ### What software to use for neural networks
 
 * Tensorflow, we already explained what this is.
