@@ -57,17 +57,25 @@ Daily:
 
 ## People
 
+Daily:
+
  * Jan Kotlarski: daily supervisor, at canteen
  * Richel Bilderbeek: supervisor
+
+Inspiration/questions:
+
  * Christoph Netz: neural network expert, at canteen
  * Francisco Richter ('Pancho'): phylogenetics expert, at 512
  * Giovanni Laudanno: phylogenetics expert, at 512
- * Liang Xu: phylogenetics expert, at 512, at 512
+ * Liang Xu: phylogenetics expert, at 512
  * Karen Bisschop: local adaptation of spider mites
- * Cyrus Mallon: bacterial communities
- * Kasper Hendriks: community assembly and phylogeography of microsnails 
- * Leonel Herrera-Alsina: SecSSE package
- * Paul van Els: SecSSE package
+ * Cyrus Mallon: bacterial communities, at 512
+ * Kasper Hendriks: community assembly and phylogeography of microsnails , at 512
+ * Leonel Herrera-Alsina: SecSSE package, at 512
+ * Paul van Els: SecSSE package, at 512
+ * Franjo Weissing: TRES professor, at 578
+ * Rampal Etienne: TRES associate professor, phylogenetics expert
+ * Jacob: Greenhouse
 
 ## References
 
