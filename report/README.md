@@ -8,9 +8,8 @@ In this report we will examine if deep learning can be used for phylogenetics. W
 
 A neural network is a programming sturcture which tries to simulate the neurons in the brain. Is does this to try to discover patterns in large sets of data. Then it uses the discovered patters to look at new data, and say something about this data. The complexity of the patterns it discovers (and its ability to discover complex patterns) grows with the amount of neurons and layers the network.[7]
 
-### How does a neural network wo(r)k?
-A neural network woks just like humans, it uses a virtual wokking pan and also use virtual vegetables and sauces. It likes many different combinations of ingrediënts. Like shrimps with beans and a ketjap and sambal sauce. Or duck from Beijing.
------How-This-Actually-Works-----
+### How does a neural network work?
+
 As said before a neural network consists of neurons. These neurons are organised in layers, and the layers communicate with each other. The neurons send data in the form of numbers back and forth. The neurons all perform some basic calcultons on the data they recieve, multiply this by the weight, and output it. After all the neurons have done their job you compare the ouput state with the state it should have been. If it matches completely 
 
 ### What is (un)supervised learning
@@ -69,7 +68,7 @@ Phylogenetics is the study of the evolutionary history and relationships among i
 
 ## On wich type of phylogenetics can we asign neural networks?
 
-We could use neural networks in phylogenetics to simulate real animals and make a phylogeny out of that, so you could see how animals would speciate.
+We could use neural networks in phylogenetics to simulate real animals and make a phylogeny out of that, so you could see how animals would speciate. This would be good, because then, you could control a phylogeny more.
 
 ## What software to use for neural networks
 
