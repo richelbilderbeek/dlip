@@ -83,6 +83,8 @@ For example you could use a python script or tensorflow to make a neural network
 
 ## R output
 
+For example:
+
 This tree:
 
 ![create_random_bd_tree tree](create_random_bd_tree.png)
@@ -94,7 +96,7 @@ has this Newick:
 (((s1:1.011295744,s2:1.011295744):6.969391358,(s3:4.728753361,s4:4.728753361):3.251933741):3.172728319,(((s5:0.01815400785,s6:0.01815400785):4.750604823,((s7:0.5641030215,s8:0.5641030215):3.083854501,s9:3.647957523):1.120801308):0.5666936288,s10:5.33545246):5.817962961);
 ````
 
-has these edges:
+It has these edges and you can make a matrix out of this and put in into the network:
 
 ```
 print(tree_reconstructed$edge)
@@ -119,7 +121,7 @@ print(tree_reconstructed$edge)
 [18,]   12   10
 ```
 
-has these edge lengths:
+has these edge lengths, also put these in the network:
 
 ```
 > print(tree_reconstructed$edge.length)
@@ -127,6 +129,8 @@ has these edge lengths:
  [8]  1.1698791  3.9565639  0.1177556  0.9994423  2.5219089  2.5219089  2.2418723
 [15]  1.2794789  1.2794789  3.6391068  9.8897387
 ```
+
+And then the neural network has to predict which parameters this tree had.
 
 ### What software to use for neural networks
 
