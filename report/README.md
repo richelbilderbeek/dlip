@@ -1,26 +1,26 @@
 # Novel artificial neural networks applications in phylogenetics.
 By: Jorn Prenger and Anne Hinrichs
 
-## Can deep neural networks be used in phylogentics and if so how can phylogenetics benefit from it? 
-In this report we will examine if deep learning can be used for phylogenetics. We will also try to find out in what way they can be used, and try to give examples.
+## Can deep neural networks be used in phylogenetics and if so how can phylogenetics benefit from it? 
+In this report, we will examine if deep learning can be used for phylogenetics. We will also try to find out in what way they can be used, and try to give examples.
 
 ## What is a neural network?
 
-A neural network is a programming sturcture which tries to simulate the neurons in the brain. Is does this to try to discover patterns in large sets of data. Then it uses the discovered patters to look at new data, and say something about this data. The complexity of the patterns it discovers (and its ability to discover complex patterns) grows with the amount of neurons and layers the network. It can then use this pattern to classify things it hasn't seen before.[7][4]
+A neural network is a programming structure which tries to simulate the neurons in the brain. Is does this to try to discover patterns in large sets of data. Then it uses the discovered patterns to look at new data, and say something about this data. The complexity of the patterns it discovers (and its ability to discover complex patterns) grows with the number of neurons and layers the network. It can then use this pattern to classify things it hasn't seen before.[7][4]
 
 ### How does a neural network work?
 
-As said before a neural network consists of neurons. These neurons are organised in layers, and the layers communicate with each other. The neurons send data in the form of numbers back and forth. The neurons all perform some basic calculations on the data they recieve, multiply this by the weight, and output it. After all the neurons have done their job you compare the ouput state with the state it should have been. (You know because you are training.) If it matches pretty good you are done training, if it doesn't match at all you adjust the weights by looking what each neuron said before it was multiplied by the weight. You then make the weights higher or lower and try the process again. 
+As said before a neural network consists of neurons. These neurons are organized in layers, and the layers communicate with each other. The neurons send data in the form of numbers back and forth. The neurons all perform some basic calculations on the data they receive, multiply this by the weight, and output it. After all the neurons have done their job you compare the output state with the state it should have been. (You know because you are training.) If it matches pretty good you are done training, if it doesn't match at all you adjust the weights by looking what each neuron said before it was multiplied by the weight. You then make the weights higher or lower and try the process again. 
 
 ### What is (un)supervised learning
 
 * Unsupervised
   
-Unsupervised machine learning is the machine learning task of inferring a function to describe hidden structure from unlabeled        data. This way you can let the program train itself without having to interfere in any way.
+Unsupervised machine learning is the machine learning task of inferring a function to describe hidden structure from unlabeled data. This way you can let the program train itself without having to interfere in any way.
   
  * Supervised
   
-Supervised learning is the machine learning task of inferring a function from labeled training data. The program just generates the output and says if this is right or not. After this it changes the values like discribed above.
+Supervised learning is the machine learning task of inferring a function from labeled training data. The program just generates the output and says if this is right or not. After this, it changes the values like described above.
 
 ### What is a deep neural network?
  
@@ -29,7 +29,7 @@ A deep neural network is a neural network which uses multiple hidden layers. Thi
 ![alt text](https://github.com/richelbilderbeek/dlip/blob/master/report/neuralnet.png)
 
 ## What is an API
-An API makes it easier for programmers to interact with hardware, databases and other stuff. It combines certain actions to save programmers from having to write the same standard code all the time. An API also standardises the communications with the hardware drivers. This makes sure you don't have to write a different program for every different system. It is all to make it easier for programmers to develop applications using these prebuild things. [5]
+An API makes it easier for programmers to interact with hardware, databases and other stuff. It combines certain actions to save programmers from having to write the same standard code all the time. An API also standardizes the communications with the hardware drivers. This makes sure you don't have to write a different program for every different system. It is all to make it easier for programmers to develop applications using these prebuild things. [5]
 
 ### Google's deep learning API
 Google's deep learning API Tensorflow is an open source deep learning platform which we want to use to practice with using deep neural networks. Tensorflow is already being used in other fields of biology like drug research.[8]
@@ -44,7 +44,7 @@ A neural network is used to discover patterns in large datasets and make predict
  
  * For image and speech recognition. [4]
  
- * It is used in phylogenetics for asigning unknown DNA to an animal group [6]
+ * It is used in phylogenetics for assigning unknown DNA to an animal group [6]
  
  * For drug research [8]
 
@@ -58,28 +58,28 @@ A neural network is used to discover patterns in large datasets and make predict
 
 ### cons 
 
-* They are slow to train without a good gpu.
+* They are slow to train without a good GPU.
 * They need lots of training data. [8]
   
 ## What are phylogenetics?
 
-Phylogenetics is the study of the evolutionary history and relationships among individuals or groups of organisms. This means it studies the relations and differences between species. To clarify these relations phylogenetic trees are made. In these trees you can also see when a specie splits into two different species. The field we are interested in is the length of the lines of these trees, which represent the time before a specie split. We also want to know if a specie just transforms instantly into two, or if this process takes time in which the specie's organisms start to grow apart due to evolution.
+Phylogenetics is the study of the evolutionary history and relationships among individuals or groups of organisms. This means it studies the relations and differences between species. To clarify these relations phylogenetic trees are made. In these trees, you can also see when a species splits into two different species. The field we are interested in is the length of the lines of these trees, which represent the time before a species split. We also want to know if a species just transforms instantly into two, or if this process takes time in which the organisms start to grow apart due to evolution.
 
 ![alt text](https://github.com/richelbilderbeek/dlip/blob/master/report/phylogenetictree.png)
 
-## On wich type of phylogenetics can we asign neural networks?
+## On wich type of phylogenetics can we use neural networks?
 
-1. We could use neural networks in phylogenetics to simulate animals and make a phylogeny out of that, so you could see how animals speciate. This would be good, because then, you could control a phylogeny more.
+1. We could use neural networks in phylogenetics to simulate animals and make a phylogeny out of that, so you could see how animals speciate. This would be good because then, you could control a phylogeny more.
 
 2. We could also use a neural network to find the parameters for the maximum likelihood function from the data in the tree. After you have found the parameters you could input the data of the tree and the parameters, and then it could guess the maximum likelihood formula.
 
 ### How could we do that
 
-1. You first have to make a realistic simulation of animals, this has been done many times. You then need to find a way to get it to run quick enough to get a phylogeny without having to wait too long because you will need a lot of training data to feed to the neural network. This might be hard because you would need a lot of computing power.
+1. You first have to make a realistic simulation of animals, this has been done many times. You then need to find a way to get it to run quick enough to get a phylogeny without having to wait too long because you will need a lot of training data to feed into the neural network. This might be hard because you would need a lot of computing power.
 
-2. You can use generated phylogenies with predefined parameters(as seen below) to feed to the neurons(the amount of neurons is dependent on the amount of taxons) and train it with them. It then has too guess the parameters and after a while it should be able to guess the parameters correctly, if you have enough neurons and layers. Then, by having the input of the tree and the parameters, the neural network could guess the maximum likelihood formula.
+2. You can use generated phylogenies with predefined parameters(as seen below) to feed to the neurons (the number of neurons is dependent on the number of taxons) and train it with them. It then has to guess the parameters and after a while, it should be able to guess the parameters correctly, if you have enough neurons and layers. Then, by having the input of the tree and the parameters, the neural network could guess the maximum likelihood formula.
 
-For example you could use a python script or tensorflow to make a neural network, then feed the data from the phylogeny (which you can generate in R or use methode 1) to all the neurons. Then train it in a way, that it then generates two outputs, your spieciation rate and your extinction rate.
+For example, you could use a python script or tensorflow to make a neural network, then feed the data from the phylogeny (which you can generate in R or use method 1) to all the neurons. Then train it in a way, that it then generates two outputs, your speciation rate, and your extinction rate.
 
 ## R output
 
@@ -135,7 +135,7 @@ And then the neural network has to predict which parameters this tree had.
 ### What software to use for neural networks
 
 * Tensorflow, we already explained what this is.
-* Numpy, This is a python module whichyou can use to execute more complex mathematical functions in python.
+* Numpy, This is a python module which you can use to execute more complex mathematical functions in python.
 
 ## References
 
