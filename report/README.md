@@ -70,6 +70,8 @@ Phylogenetics is the study of the evolutionary history and relationships among i
 
 We could use neural networks in phylogenetics to simulate real animals and make a phylogeny out of that, so you could see how animals would speciate. This would be good, because then, you could control a phylogeny more.
 
+We could also 
+
 ## What software to use for neural networks
 
 
