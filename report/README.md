@@ -32,7 +32,7 @@ A deep neural network is a neural network which uses multiple hidden layers. Thi
 An API makes it easier for programmers to interact with hardware, databases and other stuff. It combines certain actions to save programmers from having to write the same standard code all the time. An API also standardises the communications with the hardware drivers. This makes sure you don't have to write a different program for every different system. It is all to make it easier for programmers to develop applications using these prebuild things. [5]
 
 ### Google's deep learning API
-Google's deep learning API Tensorflow in an open source deep learning platform which we want to use to practice with using deep neural networks. We also thing it can easily be used for phylogenetics because its already being used in drug reseach. [8]
+Google's deep learning API Tensorflow is an open source deep learning platform which we want to use to practice with using deep neural networks. We also think it can easily be used in phylogenetics because it's already being used in drug reseach. [8]
 
 ## What is a neural network used for?
 
@@ -51,13 +51,12 @@ A neural network is used to discover patterns in large datasets and make predict
 ### pros
 
 * They have very accurate predictions and outcomes.
-* You can train them in things computers couldn't do before.
+* You can train them in things computers couldn't do before.[3]
 * You can get them to discover very complex patterns in large datasets.
 
 ### cons 
 
 * They are slow to train without a good gpu.
-
 * They need lots of training data. [further citation needed]
   
 ## What are phylogenetics?
