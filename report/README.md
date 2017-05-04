@@ -20,7 +20,7 @@ Unsupervised machine learning is the machine learning task of inferring a functi
   
  * Supervised
   
-Supervised learning is the machine learning task of inferring a function from labeled training data. The program just generates the output and says if this is right or not. After this it changes the values 
+Supervised learning is the machine learning task of inferring a function from labeled training data. The program just generates the output and says if this is right or not. After this it changes the values like discribed above.
 
 ### What is a deep neural network?
  
