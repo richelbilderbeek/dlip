@@ -72,6 +72,7 @@ We could use neural networks in phylogenetics to simulate real animals and make 
 
 
 * Still have to check this on errors or mistakes
+
 We could also use a neural network to find the parameters for the maximum likelihood function.
 To do that you would first have to generate "fake" parameters and then with those parameters and the data of the phylogeny create a maximum likelihood function 
 
