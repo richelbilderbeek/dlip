@@ -70,7 +70,10 @@ Phylogenetics is the study of the evolutionary history and relationships among i
 
 We could use neural networks in phylogenetics to simulate real animals and make a phylogeny out of that, so you could see how animals would speciate. This would be good, because then, you could control a phylogeny more.
 
+
+* Still have to check this on errors or mistakes
 We could also use a neural network to find the parameters for the maximum likelihood function.
+To do that you would first have to generate "fake" parameters and then with those parameters and the data of the phylogeny create a maximum likelihood function 
 
 ## How could we do that?
 
