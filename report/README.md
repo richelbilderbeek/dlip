@@ -6,7 +6,7 @@ In this report we will examine if deep learning can be used for phylogenetics. W
 
 ## What is a neural network?
 
-A neural network is a programming sturcture which tries to simulate the neurons in the brain. Is does this to try to discover patterns in large sets of data. Then it uses the discovered patters to look at new data, and say something about this data. The complexity of the patterns it discovers (and its ability to discover complex patterns) grows with the amount of neurons and layers the network.[7]
+A neural network is a programming sturcture which tries to simulate the neurons in the brain. Is does this to try to discover patterns in large sets of data. Then it uses the discovered patters to look at new data, and say something about this data. The complexity of the patterns it discovers (and its ability to discover complex patterns) grows with the amount of neurons and layers the network. It can then use this pattern to classify things it hasn't seen before.[7][4]
 
 ### How does a neural network work?
 
