@@ -69,17 +69,17 @@ Phylogenetics is the study of the evolutionary history and relationships among i
 
 ## On wich type of phylogenetics can we use neural networks?
 
-1. We could use neural networks in phylogenetics to simulate animals and make a phylogeny out of that, so you could see how animals speciate. This would be good because then, you could control a phylogeny more.
+1. We could use neural networks in phylogenetics to simulate animals and make a phylogeny out of that, so you could see how animals speciate. This would create a very interersting phylogeny because you can then see where the species go extinct. You can use this information to make predictions about real phylogenies.
 
 2. We could also use a neural network to find the parameters for the maximum likelihood function from the data in the tree. After you have found the parameters you could input the data of the tree and the parameters, and then it could guess the maximum likelihood formula.
 
 ### How could we do that
 
-1. You first have to make a realistic simulation of animals, this has been done many times. You then need to find a way to get it to run quick enough to get a phylogeny without having to wait too long because you will need a lot of training data to feed into the neural network. This might be hard because you would need a lot of computing power.
+1. You first have to make a realistic simulation using a neural network of animals, this has been done many times. You then need to find a way to get it to run quick enough to get a phylogeny without having to wait too long. This might be hard because you would need a lot of computing power to run the simulations. Therefor you will need very simple animals, or maybe use a model which doesn't simulate individual animals but does simulate a species and how it develops. When you have the trees you can use these and their speciation and extinction rate to calculate their likelihood. You can then compare this to real phylogenies and look at how the extictions you can't see influence the likelihood.
 
 2. You can use generated phylogenies with predefined parameters(as seen below) to feed to the neurons (the number of neurons is dependent on the number of taxons) and train it with them. So the input would be the trees edges and the length of them. Then the neural network should be trained so, that it guesses the speciation and extionction parameters. Then, by having the input of the tree and the parameters, the neural network could guess the maximum likelihood formula.
 
-For example, you could use a python script or tensorflow to make a neural network, then feed the data from the phylogeny (which you can generate in R or use method 1) to all the neurons. Then train it in a way, that it then generates two outputs, your speciation rate, and your extinction rate.
+For example, you could use a python script with tensorflow to make a neural network, then feed the data from the phylogeny (which you can generate in R or use method 1) to all the neurons. Then train it in a way, that it then generates two outputs, your speciation rate, and your extinction rate.
 
 ## R output
 
