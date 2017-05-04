@@ -73,13 +73,13 @@ Phylogenetics is the study of the evolutionary history and relationships among i
 
 * ---Still have to check this on errors or mistakes---
 
-2. We could also use a neural network to find the parameters for the maximum likelihood function. To do that you would first have to generate "fake" parameters and then with those parameters and the data of the phylogeny estimate a maximum likelihood function. Now, if you have an estimation maximum likelihood function. You could generate the real parameters?
+2. We could also use a neural network to find the parameters for the maximum likelihood function from the data in the tree.
 
 ### How could we do that
 
 1. You first have to make a realistic simulation of animals, this souldn't be too hard because this has been done many times. You then need to find a way to get it to run quick enough to get a phylogeny very quick. This might be hard because you would need a lot of computing power.
 
-2. You can use generated phylogenies to feed to the neural network and train it with them. 
+2. You can use generated phylogenies to feed to the neural network and train it with them. It then has too guess the parameters and after a while it should be able to guess the parameters. 
 
 ### What software to use for neural networks
 
