@@ -57,7 +57,7 @@ A neural network is used to discover patterns in large datasets and make predict
 ### cons 
 
 * They are slow to train without a good gpu.
-* They need lots of training data. [further citation needed]
+* They need lots of training data. [8]
   
 ## What are phylogenetics?
 
@@ -67,18 +67,17 @@ Phylogenetics is the study of the evolutionary history and relationships among i
 
 ## On wich type of phylogenetics can we asign neural networks?
 
-We could use neural networks in phylogenetics to simulate real animals and make a phylogeny out of that, so you could see how animals would speciate. This would be good, because then, you could control a phylogeny more.
+1. We could use neural networks in phylogenetics to simulate animals and make a phylogeny out of that, so you could see how animals speciate. This would be good, because then, you could control a phylogeny more.
 
-
-* Still have to check this on errors or mistakes
+* ---Still have to check this on errors or mistakes---
 
 We could also use a neural network to find the parameters for the maximum likelihood function.
-To do that you would first have to generate "fake" parameters and then with those parameters and the data of the phylogeny create a maximum likelihood function 
+To do that you would first have to generate "fake" parameters and then with those parameters and the data of the phylogeny create a maximum likelihood function. This would be handy because now you have to calculate this by hand. 
 
-## What software to use for neural networks
+### What software to use for neural networks
 
-* Tensorflow 
-* Numpy
+* Tensorflow, we already explained what this is.
+* Numpy, This is a python module whichyou can use to execute more complex mathematical functions in python.
 
 ## References
 
