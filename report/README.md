@@ -77,7 +77,7 @@ Phylogenetics is the study of the evolutionary history and relationships among i
 
 1. You first have to make a realistic simulation of animals, this has been done many times. You then need to find a way to get it to run quick enough to get a phylogeny without having to wait too long because you will need a lot of training data to feed into the neural network. This might be hard because you would need a lot of computing power.
 
-2. You can use generated phylogenies with predefined parameters(as seen below) to feed to the neurons (the number of neurons is dependent on the number of taxons) and train it with them. It then has to guess the parameters and after a while, it should be able to guess the parameters correctly, if you have enough neurons and layers. Then, by having the input of the tree and the parameters, the neural network could guess the maximum likelihood formula.
+2. You can use generated phylogenies with predefined parameters(as seen below) to feed to the neurons (the number of neurons is dependent on the number of taxons) and train it with them. So the input would be the trees edges and the length of them. Then the neural network should be trained so, that it guesses the speciation and extionction parameters. Then, by having the input of the tree and the parameters, the neural network could guess the maximum likelihood formula.
 
 For example, you could use a python script or tensorflow to make a neural network, then feed the data from the phylogeny (which you can generate in R or use method 1) to all the neurons. Then train it in a way, that it then generates two outputs, your speciation rate, and your extinction rate.
 
