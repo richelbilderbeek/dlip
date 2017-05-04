@@ -63,7 +63,11 @@ Daily:
  * Francisco Richter ('Pancho'): phylogenetics expert, at 512
  * Giovanni Laudanno: phylogenetics expert, at 512
  * Liang Xu: phylogenetics expert, at 512, at 512
- 
+ * Karen Bisschop: local adaptation of spider mites
+ * Cyrus Mallon: bacterial communities
+ * Kasper Hendriks: community assembly and phylogeography of microsnails 
+ * Leonel Herrera-Alsina: SecSSE package
+ * Paul van Els: SecSSE package
 
 ## References
 
