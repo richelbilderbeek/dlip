@@ -45,6 +45,8 @@ A neural network is used to discover patterns in large datasets and make predict
  * For image and speech recognition. [4]
  
  * It is used in phylogenetics for asigning unknown DNA to an animal group [6]
+ 
+ * For drug research [8]
 
 ## What are the pros and cons of deep learning?
 
@@ -86,17 +88,15 @@ blablabla hier moet nog wat
 ## References
 
 
-* [1] Sheehan S, Song YS (2016) Deep Learning for Population Genetic Inference. PLoS Comput Biol 12(3): e1004845. https://doi.org/10.1371/journal.pcbi.1004845
-
-
-* [2] LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "Deep learning." Nature 521.7553 (2015): 436-444.
-http://www.nature.com/nature/journal/v521/n7553/abs/nature14539.html 
-
 
 * [3] Fernandes BJT, Cavalcanti GDC, Ren TI (2014) Constructive Autoassociative Neural Network for Facial Recognition. PLoS ONE 9(12): e115967. https://doi.org/10.1371/journal.pone.0115967
 
+* [1] Sheehan S, Song YS (2016) Deep Learning for Population Genetic Inference. PLoS Comput Biol 12(3): e1004845. https://doi.org/10.1371/journal.pcbi.1004845
 
 * [4] Li Deng and Dong Yu (2014), "Deep Learning: Methods and Applications", Foundations and Trends® in Signal Processing: Vol. 7: No. 3–4, pp 197-387. http://dx.doi.org/10.1561/2000000039
+
+* [2] LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "Deep learning." Nature 521.7553 (2015): 436-444.
+http://www.nature.com/nature/journal/v521/n7553/abs/nature14539.html 
 
 * [5] Clarke, Steven (2004). "Measuring API Usability". Dr. Dobb's. Retrieved 29 July 2016.
 
