@@ -2,37 +2,47 @@
 By: Jorn Prenger and Anne Hinrichs
 
 ## Can deep neural networks be used in phylogenetics and if so how can phylogenetics benefit from it? 
-In this report, we will examine if deep learning can be used for phylogenetics. We will also try to find out in what way they can be used, and try to give examples.
+In this report, we will examine if deep learning can be used for phylogenetics. We will also try to find out in what way they can be used, and try to give examples. [what are the results?]
 
 ## What is a neural network?
 
-A neural network is a programming structure which tries to simulate the neurons in the brain. Is does this to try to discover patterns in large sets of data. Then it uses the discovered patterns to look at new data, and say something about this data. The complexity of the patterns it discovers (and its ability to discover complex patterns) grows with the number of neurons and layers the network. It can then use this pattern to classify things it hasn't seen before.[7][4]
+A neural network is a programming structure [huh, a way to program? reword] which tries to simulate the neurons in the brain [do they really try to simulate neurons, or is it something else?]. Is [typo] does this to try to discover patterns in large sets of data. Then it uses the discovered patterns to look at new data, and say something about this data [example please]. The complexity of the patterns it discovers (and its ability to discover complex patterns) grows with the number of neurons and layers the network. It can then use this pattern to classify things it hasn't seen before.[7][4]
 
 ### How does a neural network work?
 
-As said before a neural network consists of neurons. These neurons are organized in layers, and the layers communicate with each other. The neurons send data in the form of numbers back and forth. The neurons all perform some basic calculations on the data they receive, multiply this by the weight, and output it. After all the neurons have done their job you compare the output state with the state it should have been. (You know because you are training.) If it matches pretty good you are done training, if it doesn't match at all you adjust the weights by looking what each neuron said before it was multiplied by the weight. You then make the weights higher or lower and try the process again. 
+[some equations and pictures would be insightful here]
+
+As said before [redundant, remove] a neural network consists of neurons. These neurons are organized in layers, and the layers communicate with each other [you mean, the neurons within layers, or other layers?]. The neurons send data in the form of numbers back and forth [so data is sent back? is that common? if yes, what is the name of such a network?]. The neurons all perform some basic calculations on the data they receive [from what?], multiply this by the weight, and output it [to where?]. After all the neurons have done their job you compare the output state with the state it should have been [how?]. (You know because you are training. [so, how exactly?]) If it matches pretty good you are done training [how do you determine 'pretty good?], if it doesn't match at all you adjust the weights by looking what each neuron said before it was multiplied by the weight. You then make the weights higher or lower [when lower, when higher?] and try the process again. 
 
 ### What is (un)supervised learning
 
 * Unsupervised
   
 Unsupervised machine learning is the machine learning task of inferring a function to describe hidden structure from unlabeled data. This way you can let the program train itself without having to interfere in any way.
+
+[how can a neural net do this? example?]
   
  * Supervised
   
 Supervised learning is the machine learning task of inferring a function from labeled training data. The program just generates the output and says if this is right or not. After this, it changes the values like described above.
 
+[what is the protocol of training a supervised neural network?]
+
 ### What is a deep neural network?
  
-A deep neural network is a neural network which uses multiple hidden layers. This type of networks can be used to execute far more complex tasks, but the layers also make the network almost impossible to understand.
+A deep neural network is a neural network which uses multiple hidden layers. This type of networks can be used to execute far more complex tasks, but the layers also make the network almost impossible to understand. [how do you define 'understand'? neural networks consist out of simple elements, don't they?]
 
-![alt text](neuralnet.png)
+![Neural network](neuralnet.png)
 
 ## What is an API
-An API makes it easier for programmers to interact with hardware, databases and other stuff. It combines certain actions to save programmers from having to write the same standard code all the time. An API also standardizes the communications with the hardware drivers. This makes sure you don't have to write a different program for every different system. It is all to make it easier for programmers to develop applications using these prebuild things. [5]
+
+An API [abbreviation of what?] makes it easier for programmers to interact with hardware, databases and other stuff [which other stuff?]. It combines certain actions to save programmers from having to write the same standard code all the time [example?]. An API also standardizes the communications with the hardware drivers [to do what? which hardware? which situation?]. This makes sure you don't have to write a different program for every different system. It is all to make it easier for programmers to develop applications using these prebuild things [specify 'things']. [5]
 
 ### Google's deep learning API
+
 Google's deep learning API Tensorflow is an open source deep learning platform which we want to use to practice with using deep neural networks. Tensorflow is already being used in other fields of biology like drug research.[8]
+
+[why do you want to use this one, instead of others?]
 
 ## What is a neural network used for?
 
