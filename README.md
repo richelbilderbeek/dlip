@@ -1,36 +1,6 @@
 # Deep Learning in Phylogentics
 
-Project by:
-
- * Anne Hinrichs
- * Jorn Prenger
- 
- Supervision by:
- 
-  * Jan Kotlarski (daily supervisor)
-  * Richel Bilderbeek (supervisor)
-
-## Research question
-
- * Can deep learning by used in phylogentics?
- * How can phylogentics benefit from deep learning?
- 
-## Prerequisites
-
- * What is deep learning?
- * What is a neural network?
- * What are neural networks used for?
- * What is an API?
- * What are pro's and cons of deap learning??
- * How to use Google's deep learning API?
- * What is phylogenetics?
- * What is a phylogeny?
- * How is a phylogeny inferred (and why do we use the word 'inferred' instead of 'concluded')?
- * What is a likelihood equation?
-
-## Exercise to optionally do first
-
- * How to train a neural network to be able to do basic truth tables [Smith, 2017, advice 4]?
+For the [report](report/README.md), see [report](report/README.md)
 
 ## End product(s)
 
@@ -57,7 +27,12 @@ Daily:
 
 ## People
 
-Daily:
+Students:
+
+ * Anne Hinrichs
+ * Jorn Prenger
+
+Supervision:
 
  * Jan Kotlarski: daily supervisor, at canteen
  * Richel Bilderbeek: supervisor
